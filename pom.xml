@@ -113,7 +113,7 @@
                         <include>**/*</include>
                     </includes>
                     <repositoryName>akka-extension</repositoryName>      <!-- github repo name -->
-                    <repositoryOwner>zainalpour</repositoryOwner>    <!-- github username  -->
+                    <repositoryOwner>EtaCassiopeia</repositoryOwner>    <!-- github username  -->
                 </configuration>
                 <executions>
                     <!-- run site-maven-plugin's 'site' target as part of the build's normal 'deploy' phase -->
