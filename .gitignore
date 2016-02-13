@@ -1,3 +1,6 @@
+/akka-extension.iml
+/akka-extension.iws
+/akka-extension.ipr
 *.class
 *.log
 
@@ -15,3 +18,4 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+/conf
